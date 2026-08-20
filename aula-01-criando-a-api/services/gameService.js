@@ -17,6 +17,9 @@ class gameService {
       console.log(error);
     }
   }
+
+  
+
 }
 
 // Exportando a classe
